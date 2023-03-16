@@ -35,10 +35,3 @@ if driver.find_element(By.LINK_TEXT, "NEW ARRIVALS").is_displayed():
 
 
 
-# time.sleep(3)
-# if textbox.is_displayed():
-#     textbox.send_keys("demomail@gmail.com")
-# else:
-#     print("Textbox is not valid")
-# driver.save_screenshot("D:/Screenshot/vivek.png")
-# # textbox.send_keys("demomail@gmail.com")
