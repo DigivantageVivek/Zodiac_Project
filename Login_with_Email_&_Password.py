@@ -25,13 +25,3 @@ driver.find_element(By.XPATH, "//button[@id='fwithotp']").click()
 if driver.find_element(By.LINK_TEXT, "NEW ARRIVALS").is_displayed():
      print("Test Case Passed")
 
-
-
-
-
-
-
-
-
-
-
