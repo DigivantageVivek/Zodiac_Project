@@ -19,3 +19,5 @@ driver.find_element(By.XPATH, "//span[normalize-space()='Create an Account']").c
 
 if driver.find_element(By.XPATH, "//h1[normalize-space()='Profile Details']").is_displayed():
     print("Test Case Passed")
+
+driver.find_element(By.)
